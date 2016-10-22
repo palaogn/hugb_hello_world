@@ -1,5 +1,8 @@
 hugb_hello_world
 ================
+
+[![Build Status](https://travis-ci.org/palaogn/hugb_hello_world.png)](https://travis-ci.org/palaogn/hugb_hello_world)
+
 (T-303-HUGB, Hugbúnaðarfræði, 2016-3)
 
 Sample program used to show students Gradle in action.
